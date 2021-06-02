@@ -1,0 +1,10 @@
+
+
+
+
+ Room
+ 
+ 	door
+	
+		- open()
+		- close()
